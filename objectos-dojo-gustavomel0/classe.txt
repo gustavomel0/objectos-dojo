@@ -1,0 +1,1 @@
+Finge que isso é uma classe.
